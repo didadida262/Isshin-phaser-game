@@ -1,0 +1,8 @@
+Placeholder art (swap later via public/assets filenames or src/game/catalog.ts):
+
+Kenney Platformer Pack Redux — CC0
+https://kenney.nl
+https://opengameart.org/content/platformer-pack-redux-360-assets
+
+Kenney Platformer Pack Medieval — CC0
+https://kenney.nl
